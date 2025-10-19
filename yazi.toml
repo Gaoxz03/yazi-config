@@ -4,3 +4,8 @@ sort_dir_first = true
 show_symlink = true
 mouse_events = ["click", "scroll"]
 
+[preview]
+wrap = "yes"
+tab_size = 2
+image_quality = 90
+
